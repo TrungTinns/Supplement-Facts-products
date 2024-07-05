@@ -1,4 +1,4 @@
-![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/6f896b7e-1c4b-43e5-9c00-141fb9ff233e)# Supplement Facts Products Management System
+# Supplement Facts Products Management System
 
 ## Introduction
 This project provides an architectural overview for the software system of a corporation selling Supplement Facts products to agents. It builds and develops the functionality of the platform as well as the necessary technology for its users. This report details the functions, data design, and architectural model, fulfilling requirements in terms of functional development and scenarios for each role.
@@ -8,7 +8,8 @@ Instructor's endorsement and evaluation sections are to be completed by the resp
 
 ## Summary
 In the era of technology 4.0, the need to systematize the management of mini football fields and similar operations is essential. This project addresses the requirements of reducing administrative processing time, increasing work efficiency, handling large amounts of information, and providing timely responses during operation and management.
-![Uploading image.png…]()
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/519068a7-e958-4ea8-b2f9-2f5dfd7bacf9)
+
 
 
 ## Table of Contents
