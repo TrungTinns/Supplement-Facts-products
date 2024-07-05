@@ -1,4 +1,4 @@
-# Supplement Facts Products Management System
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/6f896b7e-1c4b-43e5-9c00-141fb9ff233e)# Supplement Facts Products Management System
 
 ## Introduction
 This project provides an architectural overview for the software system of a corporation selling Supplement Facts products to agents. It builds and develops the functionality of the platform as well as the necessary technology for its users. This report details the functions, data design, and architectural model, fulfilling requirements in terms of functional development and scenarios for each role.
@@ -8,6 +8,8 @@ Instructor's endorsement and evaluation sections are to be completed by the resp
 
 ## Summary
 In the era of technology 4.0, the need to systematize the management of mini football fields and similar operations is essential. This project addresses the requirements of reducing administrative processing time, increasing work efficiency, handling large amounts of information, and providing timely responses during operation and management.
+![Uploading image.png…]()
+
 
 ## Table of Contents
 1. Introduction
@@ -55,20 +57,48 @@ In the era of technology 4.0, the need to systematize the management of mini foo
   10. Sequence Diagram – Create Goods Delivery
   11. Report
   12. Login by Username and Password
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/17e78f33-6055-4853-a552-820db42b14d2)
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/8543ffc8-33d3-4492-a563-8844d9097219)
+
   13. Create Goods Received
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/6d9a1a36-0da0-4187-9a11-28b2bc86d249)
+
   14. List Received
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/496d23a6-c9c7-4a35-9c17-d324b59d5456)
+
   15. Bill Received
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/214ea0c7-7cf3-478a-8ae9-a3487f85ddfe)
+
   16. Goods Delivery
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/2612b215-4758-482e-9acc-666c28c93f42)
+
   17. List Delivery
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/b6178150-dcb4-4898-95cf-41b0a85154e3)
+
   18. Bill Delivery
-  19. Bill Delivery
-  20. Revenue Report
-  21. GitHub Repository Link
-  22. Login Interface
-  23. Products
-  24. Order
-  25. History Order
-  26. Admin Account
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/6ac810f7-e38b-4eb8-acba-92066cd53fa6)
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/abb2eb38-5c25-4980-b313-89f58a984010)
+
+  19. Revenue Report
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/13a9a373-02cf-4b4b-bfc5-b03ca2cc697a)
+
+  20. GitHub Repository Link
+
+  21. Login Interface
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/b86d5980-09c6-48cd-9378-a18b3236f86a)
+
+  22. Products
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/32e499e8-6fde-46db-a89d-7138a6b95bed)
+
+  23. Order
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/f9bce939-3ef8-4d0c-bc82-9acd4f215129)
+
+  24. History Order
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/b735a06c-2d4e-44d0-bc5b-29d07bebb39f)
+
+  25. Admin Account
+![image](https://github.com/TrungTinns/Supplement-Facts-products/assets/94519308/c9c909a0-1e04-4d6a-86c6-38e197591ad3)
+
 
 ## Purpose and Scope
 This project aims to provide an efficient software solution for managing the sales of Supplement Facts products, enhancing functionality for accountants and agents.
